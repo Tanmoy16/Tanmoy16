@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Tanmoy Paul!  <br><br>💻 IT Undergraduate at VIT Vellore  <br>🔐 Passionate about Cybersecurity, Web Development, and Competitive Coding  <br>📚 Currently learning and exploring new technologies  <br><br>🚀 Always eager to build, break, and secure systems while improving my coding skills! <br>
+👋 Hi, I'm Tanmoy Paul!  <br><br>💻 IT Undergraduate at VIT Vellore  <br>🔐 Passionate about Cybersecurity, Web Development, and Competitive Coding  <br>📚 Currently learning and working on cyber security tools while exploring new technologies  <br><br>🚀 Always eager to build, break, and secure systems while improving my coding skills! <br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tanmoy-paul-85220b329) 
